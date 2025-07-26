@@ -1,5 +1,7 @@
-# Retail-EDA
-Exploratory Data Analysis 
+# Retail Sales Data Analysis
+
+## Project Overview
+
 This project presents a comprehensive analysis of retail sales data, aiming to extract meaningful insights that can inform business strategies and improve sales performance. Leveraging Python and its powerful data science libraries, this report covers essential steps from data loading and cleaning to in-depth exploratory data analysis (EDA) and key performance indicator (KPI) calculation.
 
 The primary goal is to understand sales patterns, identify significant correlations between variables, and highlight factors influencing overall revenue.
@@ -19,7 +21,7 @@ The analysis is based on a retail sales dataset, typically containing informatio
 
 ## Analysis Performed
 
-The Jupyter Notebook (`retail_data (4).ipynb`) walks through the following stages:
+The Jupyter Notebook (`retail_data_analysis.ipynb`) walks through the following stages:
 
 ### 1. Data Loading and Initial Inspection
 * Importing necessary libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`).
@@ -82,12 +84,12 @@ To run this notebook locally:
     ```bash
     pip install pandas numpy matplotlib seaborn
     ```
-3.  **Place the dataset:** Make sure `retail_sales_dataset.csv` is in the same directory as the `retail_data (4).ipynb` notebook.
+3.  **Place the dataset:** Make sure `retail_sales_dataset.csv` is in the same directory as the `retail_data_analysis.ipynb` notebook.
 4.  **Launch Jupyter Notebook:**
     ```bash
     jupyter notebook
     ```
-5.  Open `retail_data (4).ipynb` from the Jupyter interface in your web browser.
+5.  Open `retail_data_analysis.ipynb` from the Jupyter interface in your web browser.
 
 ## Future Enhancements (Optional)
 
@@ -95,3 +97,9 @@ To run this notebook locally:
 * **Customer Segmentation:** Apply clustering techniques (e.g., K-Means) to segment customers based on purchasing behavior (e.g., RFM analysis).
 * **Product Performance Deep Dive:** Analyze sales and profitability by individual product, not just categories.
 * **Predictive Modeling:** Build models to predict sales or identify factors leading to higher customer spending.
+
+---
+
+**Author:** [Your Name/GitHub Username]
+**Contact:** [Your Email or LinkedIn Profile Link (Optional)]
+**Date:** [Current Date, e.g., July 26, 2025]
