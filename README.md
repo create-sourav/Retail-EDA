@@ -100,6 +100,6 @@ To run this notebook locally:
 
 ---
 
-**Author:** [Your Name/GitHub Username]
-**Contact:** [Your Email or LinkedIn Profile Link (Optional)]
-**Date:** [Current Date, e.g., July 26, 2025]
+**Author:** [Sourav Mondal/create-sourav]
+**Contact:** [write2srvmndl@gmail.com/https://www.linkedin.com/in/sourav-mondal-7991b5373/]
+**Date:** [Current Date, July 26, 2025]
